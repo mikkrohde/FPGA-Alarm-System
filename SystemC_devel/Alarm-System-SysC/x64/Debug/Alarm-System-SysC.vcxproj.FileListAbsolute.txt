@@ -1,0 +1,1 @@
+C:\Users\Mikkel\source\repos\mikkrohde\FPGA-Alarm-System\SystemC_devel\Alarm-System-SysC\x64\Debug\Alarm-System-SysC.exe
