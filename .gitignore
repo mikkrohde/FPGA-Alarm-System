@@ -89,3 +89,14 @@
 #########
 *.o
 *.out
+
+#########
+Visual studio project files
+#########
+!*.sln
+!*.vcxproj
+!*.vcxproj,filters
+!*.vcxproj.user
+!*.cpp
+!*.c
+!*.h
